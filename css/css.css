@@ -1,7 +1,11 @@
 .sidebar {
   float: left;
   width: 70px;
-  color: blue;
+  color: darkblue;
+  border: 4px solid blue;
+  padding: 0% 6.5% 0% 1%;
+  margin: 1px;
+  background-color: red;
 }
 
 .city {
